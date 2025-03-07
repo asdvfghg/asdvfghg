@@ -24,7 +24,7 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 
 #### PHM
 
-- ``MSSP``</b>JX Liao</b>, C He, J Li, J Sun, S Zhang∗, X Zhang∗, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
+- ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang∗, X Zhang∗, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
 -  ``IEEE TIM`` <b>JX Liao</b>, HC Dong, ZQ Sun, J Sun, S Zhang*, FL Fan*, [Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/10076833), **(ESI High Cited Paper)**[![](https://img.shields.io/github/stars/asdvfghg/QCNN_for_bearing_diagnosis?style=social&label=Code+Stars)](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)
 -  ``IEEE TIM``<b>JX Liao</b>, SL Wei, CL Xie, T Zeng, J Sun, S Zhang*, X Zhang*, FL Fan*, [BearingPGA-Net: A Lightweight and Deployable Bearing Fault Diagnosis Network via Decoupled Knowledge Distillation and FPGA Acceleration](https://ieeexplore.ieee.org/document/10373183)[![](https://img.shields.io/github/stars/asdvfghg/BearingPGA-Net?style=social&label=Code+Stars)](https://github.com/asdvfghg/BearingPGA-Net)
  -   ``MST`` <b>JX Liao</b>, HC Dong, L Lou, J Sun, S Zhang*, [Multi-task Neural Network Blind Deconvolution and its Application to Bearing Fault Feature Extraction](https://iopscience.iop.org/article/10.1088/1361-6501/accbdb)[![](https://img.shields.io/github/stars/asdvfghg/MNNBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/MNNBD)
@@ -32,7 +32,7 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 #### Deep Learning Theory
 
 
-- ``IEEE TAI``<b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
+- ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
 - ``Arxiv`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://arxiv.org/pdf/2303.06316.pdf)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
   
