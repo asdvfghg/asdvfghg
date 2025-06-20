@@ -31,6 +31,8 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 
 #### General Neural Network Methodology
 
+- ``Arxiv`` H Pei#, <b>JX Liao</b>#,  Q Zhao, T Gao, S Zhang, X Zhang*, F Fan*, [NeuronSeek: On Stability and Expressivity of Task-Driven Neurons
+](https://www.preprints.org/manuscript/202506.1586/v1)[![](https://img.shields.io/github/stars/HanyuPei22/NeuronSeek?style=social&label=Code+Stars)]([https://github.com/asdvfghg/ClassBD](https://github.com/HanyuPei22/NeuronSeek))
 
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
