@@ -37,4 +37,8 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
 - ``Arxiv`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://arxiv.org/pdf/2303.06316.pdf)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
+- 
+#### Invited Talks
+
+- ``IJCNN2025``Tutorial: "Recently Advancement of Introducing Neuronal Diversity into Deep Learning" [Slide](https://1drv.ms/b/c/c5eba26a8f9bbedf/EVY9z15WRcdHnTblyNqUahABQIz42Bl8u0oOUPaxNXBeFg?e=TCiIQD).
   
