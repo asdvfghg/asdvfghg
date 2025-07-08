@@ -16,6 +16,7 @@ I graduated from School of Instrumentation Science and Engineering, Harbin Insit
 ### 🔥News
 - *2025.03*: Our tutorial proposal “Recently Advancement of Introducing Neural Diversity into Deep Learning “ has been accepted for presentation at the 2025 International Joint Conference on Neural Networks (IJCNN).
 
+- *2025.06*: Our paper “One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks “ has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence. 
 
 
 ### 💻 Selected Research Papers with Code
@@ -36,8 +37,8 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
-- ``Arxiv`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://arxiv.org/pdf/2303.06316.pdf)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
-- 
+- ``IEEE TPAMI`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://arxiv.org/pdf/2303.06316.pdf)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
+
 #### Invited Talks
 
 - ``IJCNN2025`` Tutorial: <b>"Recently Advancement of Introducing Neuronal Diversity into Deep Learning"<\b> [Slide](https://1drv.ms/b/c/c5eba26a8f9bbedf/EVY9z15WRcdHnTblyNqUahABQIz42Bl8u0oOUPaxNXBeFg?e=TCiIQD).
