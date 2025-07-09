@@ -2,7 +2,7 @@
 
 I am now a dual degree PhD candidate enrolled at the Harbin Institute of Technology (Supervisors: [Prof. SUN Jinwei](https://homepage.hit.edu.cn/sunjinwei), [Prof. ZHANG Shiping](https://homepage.hit.edu.cn/zhangshiping)) and The Hong Kong Polytechnic University (Superivisor: [Prof. ZHANG Xiaoge](https://xiaogezhang.com/)).
 
-My research interests revolve around LLM compression, signal processing, and prognostics & health management (PHM). I have published 10+ papers at the flagship journals such as TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
+My research interests revolve around LLM compression, signal processing, and prognostics & health management (PHM). I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
 
 
 I graduated from School of Instrumentation Science and Engineering, Harbin Insititute of Technology (HIT) with B.S. and M.Eng. degrees. I also collaborate with [Prof. Feng-Lei Fan ](https://www.ds.cityu.edu.hk/people/academic-staff/professor-fenglei-fan) from City Universitiy of Hong Kong (CityU) closely. 
