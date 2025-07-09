@@ -41,5 +41,5 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 
 #### Invited Talks
 
-- ``IJCNN2025`` Tutorial: <b>"Recently Advancement of Introducing Neuronal Diversity into Deep Learning"<\b> [Slide](https://1drv.ms/b/c/c5eba26a8f9bbedf/EVY9z15WRcdHnTblyNqUahABQIz42Bl8u0oOUPaxNXBeFg?e=TCiIQD).
+- ``IJCNN2025`` Tutorial: "Recently Advancement of Introducing Neuronal Diversity into Deep Learning" [Slide](https://1drv.ms/b/c/c5eba26a8f9bbedf/EVY9z15WRcdHnTblyNqUahABQIz42Bl8u0oOUPaxNXBeFg?e=TCiIQD).
   
