@@ -14,9 +14,11 @@ I graduated from School of Instrumentation Science and Engineering, Harbin Insit
 
 
 ### 🔥News
+
+- *2025.06*: Our paper “One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks “ has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence.
+- 
 - *2025.03*: Our tutorial proposal “Recently Advancement of Introducing Neural Diversity into Deep Learning “ has been accepted for presentation at the 2025 International Joint Conference on Neural Networks (IJCNN).
 
-- *2025.06*: Our paper “One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks “ has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence. 
 
 
 ### 💻 Selected Research Papers with Code
