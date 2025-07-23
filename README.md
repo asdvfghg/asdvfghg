@@ -42,7 +42,7 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
 #### Model Compression
-- ``Arxiv`` J Fan, Z Hao, J Shen, SL Jui, Y Zhang, <b>JX Liao</b>, FL Fan*, [Compress Any Segment Anything Model (SAM)](https://arxiv.org/pdf/2507.08765)[![](https://img.shields.io/github/stars/Juntongkuki/Birkhoff-Model-Compression?style=social&label=Code+Stars)]([https://github.com/Juntongkuki/Birkhoff-Model-Compression](https://github.com/Juntongkuki/Birkhoff-Model-Compression))
+- ``Arxiv`` J Fan, Z Hao, J Shen, SL Jui, Y Zhang, <b>JX Liao</b>, FL Fan*, [Compress Any Segment Anything Model (SAM)](https://arxiv.org/pdf/2507.08765)[![](https://img.shields.io/github/stars/Juntongkuki/Birkhoff-Model-Compression?style=social&label=Code+Stars)](https://github.com/Juntongkuki/Birkhoff-Model-Compression)
 
 
 #### Invited Talks
