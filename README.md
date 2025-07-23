@@ -15,7 +15,7 @@ I graduated from School of Instrumentation Science and Engineering, Harbin Insit
 
 ### 🔥News
 
-- *2025.06*: Our paper “One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks “ has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence.
+- *2025.07*: Our paper “One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks “ has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - 
 - *2025.03*: Our tutorial proposal “Recently Advancement of Introducing Neural Diversity into Deep Learning “ has been accepted for presentation at the 2025 International Joint Conference on Neural Networks (IJCNN).
 
@@ -34,12 +34,16 @@ My full paper list is shown at [my personal homepage](https://jingxiaoliao.githu
 
 #### General Neural Network Methodology
 
+- ``IEEE TPAMI`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://ieeexplore.ieee.org/document/11080117)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
+
 - ``Arxiv`` H Pei#, <b>JX Liao</b>#,  Q Zhao, T Gao, S Zhang, X Zhang*, F Fan*, [NeuronSeek: On Stability and Expressivity of Task-Driven Neurons
 ](https://www.preprints.org/manuscript/202506.1586/v1)[![](https://img.shields.io/github/stars/HanyuPei22/NeuronSeek?style=social&label=Code+Stars)]([https://github.com/asdvfghg/ClassBD](https://github.com/HanyuPei22/NeuronSeek))
 
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
-- ``IEEE TPAMI`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://arxiv.org/pdf/2303.06316.pdf)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
+#### Model Compression
+- ``Arxiv`` J Fan, Z Hao, J Shen, SL Jui, Y Zhang, <b>JX Liao</b>, FL Fan*, [Compress Any Segment Anything Model (SAM)](https://arxiv.org/pdf/2507.08765)[![](https://img.shields.io/github/stars/Juntongkuki/Birkhoff-Model-Compression?style=social&label=Code+Stars)]([https://github.com/Juntongkuki/Birkhoff-Model-Compression](https://github.com/Juntongkuki/Birkhoff-Model-Compression))
+
 
 #### Invited Talks
 
