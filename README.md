@@ -5,7 +5,7 @@ I will join the City University of Hong Kong as a post-doc in September 2025. I 
 My research interests revolve around LLM compression, signal processing, and prognostics & health management (PHM). I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
 
 
-I graduated from School of Instrumentation Science and Engineering, Harbin Insititute of Technology (HIT) with B.S. and M.Eng. degrees. I also collaborate with [Prof. Feng-Lei Fan ](https://www.ds.cityu.edu.hk/people/academic-staff/professor-fenglei-fan) from City Universitiy of Hong Kong (CityU) closely. 
+I graduated from School of Instrumentation Science and Engineering, Harbin Insititute of Technology (HIT) with B.S., M.Eng., and Ph.D. degrees.
 
 
 ### 📎 Homepages
