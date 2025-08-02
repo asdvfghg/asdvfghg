@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am now a dual degree PhD candidate enrolled at the Harbin Institute of Technology (Supervisors: [Prof. SUN Jinwei](https://homepage.hit.edu.cn/sunjinwei), [Prof. ZHANG Shiping](https://homepage.hit.edu.cn/zhangshiping)) and The Hong Kong Polytechnic University (Superivisor: [Prof. ZHANG Xiaoge](https://xiaogezhang.com/)).
+I will join the City University of Hong Kong as a post-doc in September 2025. I have received a PhD degree from the Harbin Institute of Technology (Supervisors: [Prof. SUN Jinwei](https://homepage.hit.edu.cn/sunjinwei), [Prof. ZHANG Shiping](https://homepage.hit.edu.cn/zhangshiping)), and I am also pursuing my dual degree PhD in The Hong Kong Polytechnic University (Supervisor: [Prof. ZHANG Xiaoge](https://xiaogezhang.com/)). 
 
 My research interests revolve around LLM compression, signal processing, and prognostics & health management (PHM). I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
 
