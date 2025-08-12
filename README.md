@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I will be joining the Department of Data Science at City University of Hong Kong as a postdoctoral fellow in September 2025. I have been awarded a PhD degree from Harbin Institute of Technology, under the supervision of Prof. SUN Jinwei and Prof. ZHANG Shiping, and I am concurrently pursuing a dual-degree PhD at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
+I will be joining the Department of Data Science at City University of Hong Kong as a postdoctoral fellow in September 2025. I hold a PhD degree from Harbin Institute of Technology, under the supervision of Prof. SUN Jinwei and Prof. ZHANG Shiping, and I am concurrently pursuing a dual-degree PhD at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
 
 My research interests revolve around LLM compression, signal processing, and prognostics & health management (PHM). I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
 
 
-I graduated from School of Instrumentation Science and Engineering, Harbin Insititute of Technology (HIT) with B.S., M.Eng., and Ph.D. degrees.
+I graduated from the School of Instrumentation Science and Engineering, Harbin Institute of Technology (HIT) with B.S., M.Eng., and Ph.D. degrees.
 
 
 ### 📎 Homepages
@@ -14,9 +14,10 @@ I graduated from School of Instrumentation Science and Engineering, Harbin Insit
 
 
 ### 🔥News
-
+- *2025.08* Our paper “Marginal Contribution Spectral Fusion Network for Remote Hyperspectral Soil Organic Matter Estimation” has been accepted at Remote Sensing!
+ 
 - *2025.07*: Our paper “One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks “ has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence.
-- 
+  
 - *2025.03*: Our tutorial proposal “Recently Advancement of Introducing Neural Diversity into Deep Learning “ has been accepted for presentation at the 2025 International Joint Conference on Neural Networks (IJCNN).
 
 
