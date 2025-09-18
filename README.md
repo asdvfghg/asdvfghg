@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I will be joining the Department of Data Science at City University of Hong Kong as a postdoctoral fellow in September 2025. I hold a PhD degree from Harbin Institute of Technology, under the supervision of Prof. SUN Jinwei and Prof. ZHANG Shiping, and I am concurrently pursuing a dual-degree PhD at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
+I hold a PhD degree from Harbin Institute of Technology, under the supervision of Prof. SUN Jinwei and Prof. ZHANG Shiping, and I am concurrently pursuing a dual-degree PhD at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
 
-My research interests revolve around LLM compression, signal processing, and prognostics & health management (PHM). I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
+My research interests revolve around signal processing, prognostics & health management (PHM), and model compression. I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
 
 
 I graduated from the School of Instrumentation Science and Engineering, Harbin Institute of Technology (HIT) with B.S., M.Eng., and Ph.D. degrees.
