@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently a postdoctoral fellow at the Frontier of Artificial Networks Lab, Department of Data Science, City University of Hong Kong (Supervisor: [Prof. Feng-Lei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html)). I hold a PhD degree from Harbin Institute of Technology, under the supervision of [Prof. SUN Jinwei](https://homepage.hit.edu.cn/sunjinwei) and [Prof. ZHANG Shiping](https://homepage.hit.edu.cn/zhangshiping), and also hold a dual PhD degree at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
+I am currently a postdoctoral fellow at the [Frontier of Artificial Networks Lab](https://fancityu.github.io/), Department of Data Science, City University of Hong Kong (Supervisor: [Prof. Feng-Lei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html)). I hold a PhD degree from Harbin Institute of Technology, under the supervision of [Prof. SUN Jinwei](https://homepage.hit.edu.cn/sunjinwei) and [Prof. ZHANG Shiping](https://homepage.hit.edu.cn/zhangshiping), and also hold a dual PhD degree at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
 
 My research interests revolve around signal processing, prognostics & health management (PHM), and model compression. I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
 
