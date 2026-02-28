@@ -12,16 +12,6 @@ Previously, I graduated from the School of Instrumentation Science and Engineeri
 - Personal Pages: https://jingxiaoliao.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com/citations?user=SCHOLAR_ID&user=iGEsvrQAAAAJ
 
-
-### 🔥News
-- *2025.08* Our paper “Marginal Contribution Spectral Fusion Network for Remote Hyperspectral Soil Organic Matter Estimation” has been accepted at Remote Sensing!
- 
-- *2025.07*: Our paper “One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks “ has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence.
-  
-- *2025.03*: Our tutorial proposal “Recently Advancement of Introducing Neural Diversity into Deep Learning “ has been accepted for presentation at the 2025 International Joint Conference on Neural Networks (IJCNN).
-
-
-
 ### 💻 Selected Research Papers with Code
 
 My full paper list is shown at [my personal homepage](https://jingxiaoliao.github.io).
