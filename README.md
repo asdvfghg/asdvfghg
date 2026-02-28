@@ -27,6 +27,7 @@ Previously, I graduated from the School of Instrumentation Science and Engineeri
 My full paper list is shown at [my personal homepage](https://jingxiaoliao.github.io).
 
 #### PHM
+-  ``IEEE TR`` WE Yu, S Zhang*, J Sun, <b>JX Liao*</b>, X Zhang*, [A Class-Aware Supervised Contrastive Quadratic Neural Network for Imbalanced Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/11415404)[![](https://img.shields.io/github/stars/yuweien1120/CCQNet?style=social&label=Code+Stars)](https://github.com/yuweien1120/CCQNet)
 
 - ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang∗, X Zhang∗, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
 -  ``IEEE TIM`` <b>JX Liao</b>, HC Dong, ZQ Sun, J Sun, S Zhang*, FL Fan*, [Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/10076833), **(ESI High Cited Paper)**[![](https://img.shields.io/github/stars/asdvfghg/QCNN_for_bearing_diagnosis?style=social&label=Code+Stars)](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)
