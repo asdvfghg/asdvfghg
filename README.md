@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-I am currently a postdoctoral fellow at the [Frontier of Artificial Networks Lab](https://fancityu.github.io/), Department of Data Science, City University of Hong Kong (Supervisor: [Prof. Feng-Lei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html)). I hold a PhD degree from Harbin Institute of Technology, under the supervision of [Prof. SUN Jinwei](https://homepage.hit.edu.cn/sunjinwei) and [Prof. ZHANG Shiping](https://homepage.hit.edu.cn/zhangshiping), and also hold a dual PhD degree at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
+I am currently a postdoctoral fellow (Co-PI) at the [Frontier of Artificial Networks Lab](https://fancityu.github.io/), Department of Data Science, City University of Hong Kong (Supervisor: [Prof. Feng-Lei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html)). I hold a PhD degree from Harbin Institute of Technology, under the supervision of [Prof. SUN Jinwei](https://homepage.hit.edu.cn/sunjinwei) and [Prof. ZHANG Shiping](https://homepage.hit.edu.cn/zhangshiping), and also hold a dual PhD degree at The Hong Kong Polytechnic University, supervised by [Prof. ZHANG Xiaoge](https://xiaogezhang.com/).
 
-My research interests revolve around signal processing, prognostics & health management (PHM), and model compression. I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM. If you are seeking any form of **academic cooperation**, please feel free to email me at jingxiao.liao[at]outlook.com.
-
+My research interests revolve around signal processing, prognostics & health management (PHM), and model compression. I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM.
 
 Previously, I graduated from the School of Instrumentation Science and Engineering, Harbin Institute of Technology (HIT) with B.S. and M.Eng. degrees.
 
+
+### Openings
+
+I am seeking self-motivated students for online positions as Intern Engineers and Research Assistants. You will be recognized as an intern or RA at the Shenzhen Research Institute of Big Data. Our work focuses on LLM foundation model research, AI agents, and LLM compression. If you are interested in these areas, please feel free to contact me at jingxiao.liao[at]outlook.com.
+
+Our research group can provide internship certificates and recommendation letters for outstanding students, and support applications for Ph.D. programs in the United States and Hong Kong SAR.
 
 ### 📎 Homepages
 - Personal Pages: https://jingxiaoliao.github.io (updated recently🔥)
